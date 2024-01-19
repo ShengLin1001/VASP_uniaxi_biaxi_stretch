@@ -1,0 +1,14 @@
+# conda env create -f environment.yml
+
+name: myenv_test  
+channels:
+  - conda-forge 
+dependencies:
+  - python=3.9  
+  - numpy
+  - scipy
+  - sympy
+  - matplotlib
+  - spglib
+  - pip:
+    - git+https://github.com/BinglunYin/myalloy_package.git
