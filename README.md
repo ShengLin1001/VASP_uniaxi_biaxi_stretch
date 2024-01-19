@@ -1,11 +1,16 @@
 # VASP_uniaxi_biaxi_stretch
 For thin film of hcp / fcc gold, We execute uniaxial / biaxial stretch to calculate the inplane young's modulus
 
-## Preprocess
+## Pre Process
 generate the film using Atoms object in ASE
+
 stretch it along uniaxial or biaxial direction or any direction
 
-## Postprocess
+## Sbatch jobs
+
+
+
+## Post Process
 ### Post data
 
 ### Post data2
