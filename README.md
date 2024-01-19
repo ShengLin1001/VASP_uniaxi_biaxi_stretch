@@ -6,14 +6,21 @@ generate the film using Atoms object in ASE
 stretch it along uniaxial or biaxial direction or any direction
 
 ## Postprocess
-Post data\n
-Post data2\n
-Post diff\n
-Post param\n
-Post param2\n
-Post param statistics\n
-Post time\n
-Post warning\n
+### Post data
+
+### Post data2
+
+### Post diff
+
+### Post param
+
+### Post param2
+
+### Post param statistics
+
+### Post time
+
+### Post warning
 
 ## usage
 updating
