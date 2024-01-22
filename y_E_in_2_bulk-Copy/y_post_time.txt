@@ -1,1 +1,13 @@
 i1 job state: relaxed? time? CPUs? memory?
+0.997   didnot reached accuracy                  
+0.998   reachedrequiredaccuracy                  
+0.999   reachedrequiredaccuracy                  
+1.000   reachedrequiredaccuracy                  
+1.001   reachedrequiredaccuracy                  
+1.002   reachedrequiredaccuracy                  
+1.003   reachedrequiredaccuracy                  
+-------------------------
+| total number of jobs: 7
+|     un-finished jobs: 0
+|      un-relaxed jobs: 1
+-------------------------
