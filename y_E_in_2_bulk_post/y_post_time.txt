@@ -1,0 +1,13 @@
+i1 job state: relaxed? time? CPUs? memory?
+0.997   reachedrequiredaccuracy   Iteration:1(11)   Elapsed time 800.512   4cores,4groups   memory:954952   LOOP:49.4952   
+0.998   reachedrequiredaccuracy   Iteration:1(11)   Elapsed time 751.517   4cores,4groups   memory:953380   LOOP:44.1484   
+0.999   reachedrequiredaccuracy   Iteration:1(11)   Elapsed time 724.248   4cores,4groups   memory:957796   LOOP:43.4903   
+1.000   reachedrequiredaccuracy   Iteration:1(11)   Elapsed time 865.721   4cores,4groups   memory:953760   LOOP:54.4356   
+1.001   reachedrequiredaccuracy   Iteration:1(11)   Elapsed time 965.451   4cores,4groups   memory:971840   LOOP:60.4601   
+1.002   reachedrequiredaccuracy   Iteration:1(11)   Elapsed time 909.735   4cores,4groups   memory:970480   LOOP:60.9934   
+1.003   reachedrequiredaccuracy   Iteration:1(11)   Elapsed time 995.044   4cores,4groups   memory:953744   LOOP:69.8498   
+-------------------------
+| total number of jobs: 7
+|     un-finished jobs: 0
+|      un-relaxed jobs: 0
+-------------------------
